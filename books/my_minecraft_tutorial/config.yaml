@@ -4,5 +4,5 @@ topics: ["minecraft", "scratch", "react"] # トピック（5つまで）
 published: false # falseだと下書き
 price: 0 # 有料の場合200〜5000
 chapters:
-  - Section3 # 3章　だけど1
+  - section_3 # 3章　だけど1
 toc_depth: 3
