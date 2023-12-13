@@ -83,5 +83,5 @@ title: TNT道路を作ろう(つづき)
 *計算ブロックを東(座標の左)に置く*
 
 <!-- ![](/images/section_3/2023-12-14-06-26-53.png) -->
-![](images/section_3/drag_and_drop.png)
+![](/images/section_3/drag_and_drop.png)
 *「変数 "カウンター"」の"カウンター"をドラッグ&ドロップ*
