@@ -88,7 +88,29 @@
 - 1440以上の画像サイズのとき1000にリサイズしてくれる。だいたい3MB以下になる。
 - `mdfind -0 -onlyin . "kMDItemPixelHeight > 1440 || kMDItemPixelWidth > 1440" | xargs -0 sips -Z 1440`
 
+## drawioのスタイル
+- edit styleすると早い
 - 赤枠のスタイル: `whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FF0000;strokeWidth=3;`
+
+## enumerateの連番判定
+- 1行空白までは前の番号と連番する
+
+```
+1. # -- 1.
+a
+
+1. # -- 2.
+```
+- 累積2行空白は振り直しになる
+
+```
+1. # -- 1. 
+a
+
+a
+
+1. # -- 2.
+```
 
 ## Paste Image
 - 開発は止まっている
