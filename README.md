@@ -88,6 +88,8 @@
 - 1440以上の画像サイズのとき1000にリサイズしてくれる。だいたい3MB以下になる。
 - `mdfind -0 -onlyin . "kMDItemPixelHeight > 1440 || kMDItemPixelWidth > 1440" | xargs -0 sips -Z 1440`
 
+- 赤枠のスタイル: `whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FF0000;strokeWidth=3;`
+
 ## Paste Image
 - 開発は止まっている
 - Zenn向けだと、本ごと(フォルダで管理)のフォルダへの振り分けができない
