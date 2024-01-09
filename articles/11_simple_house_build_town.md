@@ -1,6 +1,6 @@
 ---
 title: "かんたんな家 をつくろう"
-emoji: "😸"
+emoji: "⛏️"
 type: "tech"
 topics: ["minecraft", "scratch"]
 published: false
