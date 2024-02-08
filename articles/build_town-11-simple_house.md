@@ -1,9 +1,9 @@
 ---
-title: "【マインクラフト教育版】 はじめてのプログラミング かんたんな家 をつくろう"
+title: "【マインクラフト教育版】 はじめてのプログラミング 1.1 かんたんな家 をつくろう"
 emoji: "⛏️"
 type: "tech"
 topics: ["Minecraft", "scratch"]
-published: false
+published: true
 ---
 
 # はじめに

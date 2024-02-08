@@ -1,9 +1,9 @@
 ---
-title: "【マインクラフト教育版】 はじめてのプログラミング 24.2.4回 前回までの復習"
+title: "【マインクラフト教育版】 はじめてのプログラミング 0.0 (24.2.4回) 前回までの復習"
 emoji: "⛏️"
 type: "tech"
 topics: ["Minecraft"]
-published: false
+published: true
 ---
 
 # はじめに ふりかえり
