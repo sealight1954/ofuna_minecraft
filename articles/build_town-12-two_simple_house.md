@@ -17,8 +17,41 @@ published: false
 [はじめてのプログラミング 1.1 かんたんな家 をつくろう](https://zenn.dev/pelicans/articles/build_town-11-simple_house)では`かんたんな家`をプログラミングして作ってみました。
 https://zenn.dev/pelicans/articles/build_town-11-simple_house
 
-今回は、`かんたんないえ`を二つ(ふたつ)に増やします。
+今回は、`かんたんないえ`を一度に二つ(ふたつ)作れるようにします。
 ![](/images/build_town-12-two_simple_house/2024-02-11-07-24-11.png)
 *`かんたんないえ`が二つ(ふたつ)できた*
 
 # たいへんな やりかた
+[はじめてのプログラミング 1.1 かんたんな家 をつくろう](https://zenn.dev/pelicans/articles/build_town-11-simple_house)でできたプログラムから始めましょう。コマンドの名前を`two`(英語で2のこと)とします。
+
+![](/images/build_town-12-two_simple_house/2024-02-11-07-33-59.png)
+*かんたんな家を一つ(ひとつ)作るプログラム`two`*
+
+まずは、**たいへんなやりかた**で二つ(ふたつ)の家を作るようにしてみます。
+コピー＆ペーストを使ってなるべく かんたんに やってみますが、それでもたいへんです。
+
+コピー＆ペーストを練習したい人は以下の記事を読んでみてください。
+https://zenn.dev/pelicans/articles/build_town-01-copy_and_paste
+
+1. `チャットコマンドtwoを入力した時`コードブロックをクリックする
+![](/images/build_town-12-two_simple_house/2024-02-11-07-38-37.png)
+*`チャットコマンドtwoを入力した時`コードブロックを選択した*
+
+2. `Ctrl+C`-->`Ctrl+V`と押して、`かんたんないえ`のプログラムをコピー＆ペーストする。
+![](/images/build_town-12-two_simple_house/2024-02-11-07-43-00.png)
+*`チャットコマンドtwoを入力した時`コードブロックが **もうひとつ**できた*
+<!-- ***toha*** -->
+:::message
+MacOSの人は`Ctrl`キーの代わりに`Command`キーを押しましょう
+:::
+3. 新しくできた`チャットコマンドtwoを入力した時`コードブロックの先頭、`ブロックを並べる`コードブロックを選択する
+![](/images/build_town-12-two_simple_house/2024-02-11-07-46-18.png)
+*`ブロックを並べる`コードブロックを選択した*
+
+4. 選択した`ブロックを並べる`コードブロックを、古い方のコードブロックの最後に**ドラッグ&ドロップ**します。
+![](/images/build_town-12-two_simple_house/2024-02-11-07-51-25.png)
+*`ブロックを並べる`コードブロックをドラッグ&ドロップした*
+
+5. 新しく追加したコードブロックの`x座標`(3つの数字の左、東方向)を、10足した数字にします。
+![](/images/build_town-12-two_simple_house/2024-02-11-07-53-50.png)
+*1は11に、2は12に、3は13にする*
