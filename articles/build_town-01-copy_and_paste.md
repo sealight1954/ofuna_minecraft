@@ -47,7 +47,11 @@ MacOSを使う場合、`Ctrl`キーではなく`Command`キーを使います。
 ![](/images/build_town-01-copy_and_paste/2024-02-10-06-46-17.png)
 *`ブロックを置く`コードブロックを2回実行するプログラム*
 
-1. コードビルダー画面を閉じて、`T`キーを押してチャットコマンド画面を開き、`renshu`と入力します。
+2. 右下の三角(▷)ボタンを押してコードビルダー画面を閉じます。
+![](/images/build_town-12-two_simple_house/build_button.png)
+*三角(▷)ボタンを押してプログラムを有効にする*
+
+1. `T`キーを押してチャットコマンド画面を開き、`renshu`と入力します。
 ![](/images/build_town-01-copy_and_paste/2024-02-10-06-48-41.png)
 *`renshu`プログラムを実行した様子*
 
