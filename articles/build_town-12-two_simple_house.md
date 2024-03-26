@@ -3,7 +3,7 @@ title: "【マインクラフト教育版】 はじめてのプログラミン�
 emoji: "⛏️"
 type: "tech"
 topics: ["Minecraft", "scratch"]
-published: true
+published: false
 ---
 
 # はじめに
@@ -12,6 +12,9 @@ published: true
   - 小学生を対象(対象)にしています。
 - マインクラフト教育版を使います。
 - 実際(じっさい)にみんなで集(あつ)まって、読みながら進めるようにしています。
+
+# メモ
+- この記事では、`かんたんないえ`を二つ作る中で、①単純にコピーアンドペースト
 
 # ふたつの かんたんな いえ
 [はじめてのプログラミング 1.1 かんたんな家 をつくろう](https://zenn.dev/pelicans/articles/build_town-11-simple_house)では`かんたんな家`をプログラミングして作ってみました。
