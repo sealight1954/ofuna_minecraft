@@ -3,7 +3,7 @@ title: "【マインクラフト教育版】 はじめてのプログラミン�
 emoji: "⛏️"
 type: "tech"
 topics: ["Minecraft", "scratch"]
-published: false
+published: true
 ---
 
 # はじめに
