@@ -37,6 +37,7 @@ https://zenn.dev/pelicans/articles/build_town-01-copy_and_paste
 
 準備の作業を説明します。
 
+## 準備(じゅんび)：`かんたんないえ`プログラムをコピーする
 1. プログラム`house`をクリックする
 ![](/images/build_town-12-two_simple_house/2024-02-13-06-20-57.png)
 *プログラム`house`をクリックした*
@@ -52,6 +53,13 @@ https://zenn.dev/pelicans/articles/build_town-01-copy_and_paste
 ![](/images/build_town-12-two_simple_house/2024-02-11-07-33-59.png)
 *かんたんな家を一つ(ひとつ)作るプログラム`two`*
 
+## `ふたつのかんたんないえ`プログラムを作る（コピー＆ペーストを使ったやり方）
+<!-- ***toha*** -->
+:::message
+MacOSの人は`Ctrl`キーの代わりに`Command`キーを押しましょう
+:::
+一度に二つの`かんたんないえ`を作るプログラムを、`コピー＆ペースト`を使って作っていきます。
+
 1. `チャットコマンドtwoを入力した時`コードブロックをクリックする
 ![](/images/build_town-12-two_simple_house/2024-02-11-07-38-37.png)
 *`チャットコマンドtwoを入力した時`コードブロックを選択した*
@@ -59,10 +67,7 @@ https://zenn.dev/pelicans/articles/build_town-01-copy_and_paste
 1. `Ctrl+C`-->`Ctrl+V`と押して、`かんたんないえ`のプログラムをコピー＆ペーストする。
 ![](/images/build_town-12-two_simple_house/2024-02-11-07-43-00.png)
 *`チャットコマンドtwoを入力した時`コードブロックが **もうひとつ**できた*
-<!-- ***toha*** -->
-:::message
-MacOSの人は`Ctrl`キーの代わりに`Command`キーを押しましょう
-:::
+
 1. 新しくできたコードブロックの先頭、`ブロックを並べる`コードブロックを選択する
 ![](/images/build_town-12-two_simple_house/2024-02-11-07-46-18.png)
 *`ブロックを並べる`コードブロックを選択した*
@@ -95,12 +100,13 @@ MacOSの人は`Ctrl`キーの代わりに`Command`キーを押しましょう
 前の節(せつ)と同じく、[はじめてのプログラミング 1.1 かんたんな家 をつくろう](https://zenn.dev/pelicans/articles/build_town-11-simple_house)でできたプログラムから始めましょう。
 
 準備(じゅんび)作業 を 説明します。
-
+## 準備(じゅんび)：プログラムをコピーする
 1. プログラム`house`をクリックする
 2. `Ctrl+C` --> `Ctrl+V`で、プログラムをコピー&ペーストする
 3. できたプログラムを少し はなれた ところに置く
 4. コマンドの名前を`easytwo`にする。英語(えいご)で`かんたん`(`easy`)な`2`(`two`)のこと
 
+## `ふたつのかんたんないえ`プログラムを作る（関数を使ったやりかた）
 ![](/images/build_town-12-two_simple_house/2024-02-12-06-44-04.png)
 *かんたんな家を一つ(ひとつ)作るプログラム`easytwo`*
 
@@ -117,6 +123,19 @@ MacOSの人は`Ctrl`キーの代わりに`Command`キーを押しましょう
 2. `変数を いえのいち にする`コードブロックを`easytwo`プログラムの先頭に置く
 ![](/images/build_town-12-two_simple_house/variable.png)
 *`変数を いえのいち にする`コードブロックをプログラムの先頭に置いた*
+
+1. サイドバーの`計算`ボタンをクリック→足し算コードブロック(`0`+`0`)をクリックする
+![](/images/build_town-12-two_simple_house/compute.png)
+
+1. 足し算コードブロック(`0`+`0`)を最初(さいしょ)のコードブロックのx座標(ざひょう)にドラッグ&ドロップする
+![](/images/build_town-12-two_simple_house/2024-04-13-06-32-00.png)
+
+1. 足し算コードブロック(`0`+`0`)の最初の`0`を`1`にする。（もともと`1`が入っていたので）
+![](/images/build_town-12-two_simple_house/2024-04-13-06-34-26.png)
+
+1. サイドバーの`変数`(へんすう)ボタンをクリック→作った変数(へんすう)ブロック(`いえのいちx`)をクリックする
+![](/images/build_town-12-two_simple_house/variable_x.png)
+
 
 # 64このいえをつくろう
 たいへんなやりかた で いえ を二つ(ふたつ)作りました。
