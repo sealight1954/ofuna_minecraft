@@ -49,7 +49,6 @@ https://zenn.dev/pelicans/articles/build_town-01-copy_and_paste
 *できたプログラムを はなれた ところに置いた*
 
 4. コマンドの名前を`easytwo`(英語で`かんたん`(`easy`)な`2`のこと)にする
-
 ![](/images/build_town-12-two_simple_house/2024-02-11-07-33-59.png)
 *かんたんな家を一つ(ひとつ)作るプログラム`two`*
 
