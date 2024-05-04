@@ -2,7 +2,55 @@
 
 * [📘 How to use](https://zenn.dev/zenn/articles/zenn-cli-guide)
 
+# マイクラTIPS
+## コマンドの`block_state`使い方
+- コロン(:)は=に変わっている。
+  - [参照](https://www.reddit.com/r/technicalminecraft/comments/14x531e/yet_another_fillreplace_command_issue/)
+  - 公式情報どこでみれる？
+  - [ファンダム](https://minecraft.fandom.com/wiki/Commands/fill) にはまだない。
+- [educommunity](https://educommunity.minecraft.net/hc/en-us/community/posts/4417751617172-How-to-rotate-blocks-of-stairs-in-any-direction)記事ではpythonの`world.set`コマンドを使った方法
+- [MakeCode Repository](https://github.com/microsoft/pxt/tree/master?tab=readme-ov-file)
+- https://stackoverflow.com/questions/68378889/custom-commands-for-minecraft-using-python-and-mcpi
+- AZNB のinterfaceはeditor変更でできる
+  - が、これは保存できない、プロジェクト拡張できないsandbox的なやつだ。
+  - でもこれだとdirection設定できる。。
+  - https://tech.grandmadeb.com/index.php/2021/07/31/minecraft-education-notebooks-intro-posts/
+
+
 # Memo
+
+## 2024.05.05 検討結果
+- 6月回
+  - 基本
+    - ピクセルアート
+  - 発展
+    - 壁画
+      - かんたんな家+α
+    - 円の縁
+      - 円描画
+    - 分厚いピクセルアート
+      - for文
+    - ランダムなピクセルアート
+      - 配列とランダム数 なので、難しい
+- ほか
+  - 線を引く
+    - ![](/images/README/2024-05-05-07-18-42.png)
+
+
+## 2024.04.21 検討結果
+- ![alt text](/images/README/20240421_programs.png)
+  - 発展。ピクセルアートをランダムに描画
+- 解説事項 初学者向け
+  - まず、講座の全体地図の提示、Googleフォームから提示して、"記事"にいきます、行ったら戻ります、とかを提示する
+  - マインクラフトビルダー(エディタ画面)
+  - ブロックの種類の指定
+  - 座標の指定
+  - プログラム実行の仕方
+- Minecraft教育版周りのこと
+  - アカウント作成方法
+  - 2段階認証の設定
+  - ネットワーク接続のこと
+  - こまめに再起動
 ## 2/4方針
 - まず、前回のおさらい
   - axisと、tnt道路のプログラムを完成.
@@ -137,6 +185,10 @@ a
 - Zenn向けだと、本ごと(フォルダで管理)のフォルダへの振り分けができない
   - 本によって同じ節名があると混同してしまう。
   - workaround: 説明に本のタイトルを接頭辞としてつける。
+- 設定 (Paste Imageの拡張設定から)
+  - ![](/images/README/2024-05-05-07-27-02.png)
+  - ![](/images/README/2024-05-05-07-27-26.png)
+  - ![](/images/README/2024-05-05-07-27-47.png)
 
 ## メッセージの利用
 - 以下の記法で使える

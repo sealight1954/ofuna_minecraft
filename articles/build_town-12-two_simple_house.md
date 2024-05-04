@@ -15,6 +15,12 @@ published: true
 
 https://education.minecraft.net/ja-jp
 
+## バージョン
+この記事を書いた時点でのマインクラフトのバージョンは以下のとおりです。
+- Microsoft MakeCode for Minecraftのバージョン：  1.7.28
+- Microsoft MakeCodeのバージョン：  9.2.8
+- Minecraftのバージョン:   v1.20.12
+
 # この節でやること
 - この節では、一度に二つ(ふたつ)の`かんたんないえ`を作ります
   - まず、コピー＆ペーストをつかってやってみます。すこしたいへんです
