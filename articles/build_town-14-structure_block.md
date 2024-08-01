@@ -3,7 +3,7 @@ title: "【マインクラフト教育版】 はじめてのプログラミン�
 emoji: "⛏️"
 type: "tech"
 topics: ["Minecraft", "scratch"]
-published: false
+published: true
 ---
 
 # はじめに
@@ -70,7 +70,7 @@ https://education.minecraft.net/ja-jp
 *ストラクチャーブロックからでてくる白い枠(わく)におさまるように　置く。おかしければいったんこわして置き直す*
 
 ## ストラクチャーブロックの使い方
-ストラクチャーブロックを左クリックして、ストラクチャーの操作(そうさ)画面を開きます。
+ストラクチャーブロックを左クリックして、ストラクチャー操作(そうさ)画面を開きます。
 
 ![](/images/build_town-14-structure_block/structure_block_howto.png)
 *ストラクチャーの操作(そうさ)画面* 
@@ -90,5 +90,39 @@ https://education.minecraft.net/ja-jp
 
 
 
-1. サイズの`Z(おくゆき)`を6にします。
+1. サイズの`Z(おくゆき)`を6にします。ストラクチャーの箱が大きくなることを確認します。
 ![](/images/build_town-14-structure_block/2024-07-31-06-23-16.png)
+
+2. 保存したいブロックがストラクチャーの箱におさまらない場合、おさまるようにサイズとオフセットを調整(ちょうせい)します。
+
+3. `ストラクチャー名`をtest(ほかの好きな名前でもいいです)に変える。
+![](/images/build_town-14-structure_block/2024-07-31-22-16-14.png)
+
+4. `保存`ボタンを押してストラクチャーを保存する。
+![](/images/build_town-14-structure_block/2024-07-31-22-19-02.png)
+
+## ストラクチャーを呼び出す
+保存したブロックを他の場所に呼び出してみます。
+
+1. 広い場所に行き、ストラクチャーブロックを置く
+![](/images/build_town-14-structure_block/2024-07-31-22-21-29.png)
+*ストラクチャーブロックを置いた*
+
+2. ストラクチャーブロックを左クリックして、ストラクチャー操作(そうさ)画面を開く
+![](/images/build_town-14-structure_block/2024-07-31-22-23-24.png)
+*ストラクチャー操作(そうさ)画面*
+
+3. モードを`ロード`に設定する。
+![](/images/build_town-14-structure_block/2024-07-31-22-24-01.png)
+*モードを`ロード`に設定した*
+
+4. ストラクチャー名を`mystructure:test`にする。(testは保存の時に決めた名前)
+![](/images/build_town-14-structure_block/2024-07-31-22-24-01.png)
+*ストラクチャー名を`mystructure:test`にした* 
+
+5. `ロード`ボタンを押す。
+![](/images/build_town-14-structure_block/2024-07-31-22-27-25.png)
+
+6. さきほど保存したストラクチャーが呼び出されていることを確認する。
+![](/images/build_town-14-structure_block/2024-07-31-22-29-37.png)
+*ストラクチャーを呼び出した。*

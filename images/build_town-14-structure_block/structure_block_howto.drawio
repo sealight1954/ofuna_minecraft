@@ -22,7 +22,7 @@
                 <mxCell id="9" value="" style="whiteSpace=wrap;html=1;fontColor=#000000;fillColor=none;strokeColor=#FF0000;strokeWidth=3;" vertex="1" parent="1">
                     <mxGeometry x="264" y="80" width="196" height="160" as="geometry"/>
                 </mxCell>
-                <mxCell id="10" value="ストラクチャーの名前" style="text;strokeColor=none;align=center;fillColor=#FFFFFF;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
+                <mxCell id="10" value="ストラクチャー名" style="text;strokeColor=none;align=center;fillColor=#FFFFFF;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
                     <mxGeometry x="190" y="105" width="130" height="20" as="geometry"/>
                 </mxCell>
                 <mxCell id="11" value="モード(保存／ロード)" style="text;strokeColor=none;align=center;fillColor=#FFFFFF;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
