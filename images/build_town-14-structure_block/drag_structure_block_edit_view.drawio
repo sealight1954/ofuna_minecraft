@@ -17,7 +17,7 @@
                         <Array as="points"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="6" value="マウスで自由にドラッグ&amp;amp;ドロップ" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                <mxCell id="6" value="マウスで自由にドラッグ&amp;amp;ドロップ" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="1">
                     <mxGeometry x="390" y="100" width="200" height="30" as="geometry"/>
                 </mxCell>
             </root>
