@@ -3,7 +3,7 @@ title: "【マインクラフト教育版】 はじめてのプログラミン�
 emoji: "⛏️"
 type: "tech"
 topics: ["Minecraft", "scratch"]
-published: false
+published: true
 ---
 
 # はじめに
@@ -18,7 +18,7 @@ https://education.minecraft.net/ja-jp
 ## バージョン
 この記事を書いた時点でのマインクラフトのバージョンは以下のとおりです。
 - Microsoft MakeCode for Minecraftのバージョン：  2.0.27
-- Microsoft MakeCodeのバージョン：  11.2.30
+- Microsoft MakeCodeのバージョン：  11.2.31
 - Minecraftのバージョン:   v1.20.12
 
 # この節でやること
@@ -148,6 +148,10 @@ https://education.minecraft.net/ja-jp
 ![](/images/build_town-15-music/2024-11-26-05-50-57.png)
 *`呼び出し sound`コードブロックがループの中に入る*
 
+1. ▷ボタンを押してコードビルダー画面を閉じる
+
+2. `石のツルハシ`を使ってみる。音が繰り返し鳴るのを確認しよう
+
 ## 鳴らす音を変える - 変数(へんすう)を使ってみよう -
 変数(へんすう)を使って、間に鳴らす音だけを変えることができます。
 
@@ -157,8 +161,58 @@ https://education.minecraft.net/ja-jp
 変数(へんすう)を使うと、同じ数を何回も使ったり、その数を変えたりすることが簡単にできます。
 :::
 
+1. `呼び出し sound`コードブロックを右クリック -> `関数(かんすう)の編集(へんしゅう)`を選択する
+![](/images/build_town-15-music/2024-11-28-08-42-09.png)
+*`関数(かんすう)の編集(へんしゅう)`を選択する*
+
+2. 関数の編集画面で、`パラメータを追加する` -> まん中の電卓(でんたく)アイコン(`値の追加`)をクリック
+![](/images/build_town-15-music/2024-11-28-08-44-05.png)
+*まん中の電卓(でんたく)アイコン(`値の追加`)をクリックする*
+
+3. 変数(へんすう)`数値(すうち)`が追加されるので、名前を`gakki`などに変更(へんこう)
+![](/images/build_town-15-music/2024-11-28-08-45-46.png)
+*名前を`gakki`に変更(へんこう)する。好きな名前で良い*
+
+4. 完了ボタンを押す
+![](/images/build_town-15-music/2024-11-28-08-50-43.png)
+*変数(へんすう)`gakki`が追加された*
+
+5. 変数(へんすう)`gakki`を選択して、コピー＆ペーストする(Ctrl+`C`->Ctrl+`V`)
+![](/images/build_town-15-music/2024-11-28-08-52-58.png)
+*変数(へんすう)`gakki`を選択して、コピー＆ペーストした(Ctrl+`C`->Ctrl+`V`)*
+
+6. 新しくできた変数`gakki`を、5つの`play note`コードブロックの真ん中のブロックに配置する
+![](/images/build_town-15-music/2024-11-28-08-54-24.png)
+*新しくできた変数`gakki`を5つの`play note`コードブロックの真ん中のブロックに配置した*
+
+7. サイドバー -> `MUSIC` -> `instrument`ブロックをクリック
+![](/images/build_town-15-music/2024-11-28-08-57-12.png)
+*`instrument`ブロックをクリックする*
+
+8. `次のアイテムが使われた時`プログラムの中に配置された`呼び出し sound`コードブロックの変数(`1`になっている)を、`instrument`ブロックに置(お)き換(か)える
+![](/images/build_town-15-music/variable_in_music_function.png)
+*`呼び出し sound`コードブロックの変数(`1`になっている)を、`instrument`ブロックに置(お)き換(か)えた*
+
+9. `instrument`ブロックの中身を好きな楽器に変える
+![](/images/build_town-15-music/2024-11-28-09-03-17.png)
+*`instrument`ブロックの中身を好きな楽器に変える*
+
+
 # リズムをつくろう
 `タッタタ`をプログラムで作ってみましょう
 
+![](/images/build_town-15-music/2024-11-28-09-12-10.png)
+*`タッタタ`をプログラムで作ってみた*
+
 
 ## 好きなリズムをつくろう
+`もりあがりがたりないぞ`をプログラムで作ってみましょう
+
+![](/images/build_town-15-music/2024-11-28-09-14-05.png)
+*もりあがりがたりないぞをプログラムで作ってみた*
+
+![](/images/build_town-15-music/2024-11-28-09-14-48.png)
+*前半(ぜんはん)*
+
+![](/images/build_town-15-music/2024-11-28-09-15-12.png)
+*後半(こうはん)*
